@@ -1,6 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1Dv9vsgE)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
+My name is Atuwatse Okorodudu, I am an honors political science major and computer science minor from Highland California. I want to learn more data manipulation techniques.
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
@@ -105,3 +107,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+* 
+NEW LINE
