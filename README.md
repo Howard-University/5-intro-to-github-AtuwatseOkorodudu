@@ -2,6 +2,7 @@
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
+My name is Atuwatse Okorodudu, I am an honors political science major and computer science minor from Highland California. I want to learn more data manipulation techniques.
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
